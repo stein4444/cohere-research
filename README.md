@@ -105,7 +105,7 @@ Embed v4 — мультимодальні ембеддинги (текст + з�
 | Embed v1 | Не розкрито | Ембеддинги  |  (текст) | 2021 |	N/A	 | BPE | 	Proprietary | [Model Card] (https://docs.cohere.com/docs/embeddings) |
 | Embed v2 | Не розкрито | Ембеддинги | (текст) | 2022 | N/A | BPE | Proprietary | [Model Card] (https://docs.cohere.com/docs/embeddings) |
 | Embed v3 | Не розкрито | Багатомовні ембеддинги | 2023 | N/A | BPE | Proprietary | [Model Card] (https://docs.cohere.com/docs/embeddings) |
-| Embed v4 | Не розкрито | Текст + зображення (multimodal embeddings) | 2024	N/A | BPE	Proprietary | [Model Card] (https://docs.cohere.com/docs/embeddings) |
+| Embed v4 | Не розкрито | Текст + зображення (multimodal embeddings) | 2024	N/A | BPE	| Proprietary | [Model Card] (https://docs.cohere.com/docs/embeddings) |
 | Command | Не розкрито | Генеративний текст | 2022 | ~4K | BPE | Proprietary | [Model Card] (https://docs.cohere.com/docs/command) |
 | Command R | ~7B (офіційно підтверджено) | Генеративний текст (RAG-оптимізований) | 2024 | 128K | BPE | Proprietary | [Model Card] (https://docs.cohere.com/docs/command-r) |
 | Command R+ | Не розкрито | Генеративний текст (enhanced RAG) | 2024 | 128K | BPE | Proprietary | [Model Card] (https://docs.cohere.com/docs/command-r-plus) |
