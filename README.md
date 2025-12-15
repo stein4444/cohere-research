@@ -180,10 +180,10 @@ Command-моделі оптимізовані для RAG, корпоративн
 Cohere переважає більшість LLM-провайдерів саме у retrieval-задачах.
 
 ---
-| Бенчмарк         | # Shots | Метрика |    Embed v3/v4   |   Rerank 3 / 3.5   |
+| Бенчмарк         | Метрика |  Embed v3/v4   |   Rerank 3 / 3.5   |
 | :--------------- | :-------: | :---------: | :----------------: | :----------------: |
-| BEIR | nDCG@10 | accuracy   | Top-tier | Top-tier |
-| MSMARCO | MRR@10 | accuracy   | Дуже високий | Один з найкращих |
+| BEIR | nDCG@10 | Top-tier | Top-tier |
+| MSMARCO | MRR@10 | Дуже високий | Один з найкращих |
 | Enterprise Search | Precision@k | Висока | Найвища |
-| RAG QA |    0    | Answer EM | Висока | Суттєве покращення |
+| RAG QA |    0    | Висока | Суттєве покращення |
 ---
